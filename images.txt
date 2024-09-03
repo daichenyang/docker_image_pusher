@@ -1,7 +1,9 @@
-centos
+tomcat
+bitnami/prometheus
 
 ###已下载镜像###
 #nginx
+#centos
 
 
 #支持私库

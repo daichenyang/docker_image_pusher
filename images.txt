@@ -1,7 +1,8 @@
-openjdk:8
-openjdk:17
-openjdk:24
+sonatype/nexus
 
+#openjdk:8
+#openjdk:17
+#openjdk:24
 #tomcat
 #bitnami/prometheus
 #nginx

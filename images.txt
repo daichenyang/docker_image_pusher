@@ -1,4 +1,5 @@
-goharbor/prepare
+goharbor/prepare:v2.11.1
+
 #sonatype/nexus
 
 #openjdk:8

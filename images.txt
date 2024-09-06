@@ -1,7 +1,6 @@
-goharbor/prepare:v2.11.1
-
+mariadb
+#goharbor/prepare:v2.11.1
 #sonatype/nexus
-
 #openjdk:8
 #openjdk:17
 #openjdk:24

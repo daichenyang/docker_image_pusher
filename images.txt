@@ -1,4 +1,4 @@
-php:zts-bookworm@sha256:6d95fa15068e47927039f6270d09daa85988cea31479d75f1699a333eaee089d
+bitnami/php-fpm:8.3.11-debian-12-r2@sha256:a138f4fe8545e33632f6e7b52af7b0ee1deb9767063785238bc4be84d4a62f0e
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest

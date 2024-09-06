@@ -1,4 +1,4 @@
-nginx:stable-bookworm-perl@sha256:3a40c2525e60d033618bc2b5582e7dbe05a6fec04cc47f31f3d75249993051c3
+php:zts-bookworm@sha256:6d95fa15068e47927039f6270d09daa85988cea31479d75f1699a333eaee089d
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest

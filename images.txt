@@ -1,4 +1,8 @@
-php:fpm-bookworm@sha256:3e543d9b5a98fe3ef6e4a5b4089bef7775d7199d9889cb66bb18b0a0112b5a13
+medicean/vulapps:c_cmseasy_1
+vulhub/apisix:2.9
+vulhub/apisix-dashboard:2.9.0
+bitnami/etcd:3.4.15
+
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest

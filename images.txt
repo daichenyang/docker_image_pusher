@@ -1,13 +1,4 @@
-mariadb
-#goharbor/prepare:v2.11.1
-#sonatype/nexus
-#openjdk:8
-#openjdk:17
-#openjdk:24
-#tomcat
-#bitnami/prometheus
-#nginx
-#centos
+nginx:stable-bookworm-perl@sha256:11b3f27123be3c21f43fc974e44295ef741af25bc9ad75c5c7b247f45d7de241
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0

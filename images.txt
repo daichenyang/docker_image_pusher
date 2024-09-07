@@ -1,7 +1,4 @@
-medicean/vulapps:c_cmseasy_1
-vulhub/apisix:2.9
-vulhub/apisix-dashboard:2.9.0
-bitnami/etcd:3.4.15
+centos:centos7.9.2009@sha256:73f11afcbb50d8bc70eab9f0850b3fa30e61a419bc48cf426e63527d14a8373b
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0

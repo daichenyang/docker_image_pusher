@@ -1,16 +1,21 @@
-# k8s镜像
-registry.k8s.io/kube-apiserver:v1.23.6
-registry.k8s.io/kube-scheduler:v1.23.6
-registry.k8s.io/kube-controller-manager:v1.23.6
-registry.k8s.io/kube-proxy:v1.23.6
-registry.k8s.io/etcd:3.5.1-0
-registry.k8s.io/pause:3.6
-coredns/coredns:1.8.6
-quay.io/tigera/operator:v1.34.3
+centos:centos7
+nginx:1.27.1-alpine-slim
+tomcat:jre17
 
-calico/cni:v3.22.5
-calico/node:v3.22.5
-calico/kube-controllers:v3.22.5
+# nginx/nginx-ingress:1.5.1
+
+# k8s镜像
+#registry.k8s.io/kube-apiserver:v1.23.6
+#registry.k8s.io/kube-scheduler:v1.23.6
+#registry.k8s.io/kube-controller-manager:v1.23.6
+#registry.k8s.io/kube-proxy:v1.23.6
+#registry.k8s.io/etcd:3.5.1-0
+#registry.k8s.io/pause:3.6
+#coredns/coredns:1.8.6
+#quay.io/tigera/operator:v1.34.3
+#calico/cni:v3.22.5
+#calico/node:v3.22.5
+#calico/kube-controllers:v3.22.5
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0

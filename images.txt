@@ -1,8 +1,5 @@
-gitlab/gitlab-ce:15.10.7-ce.0
-
-
-
-
+#cytopia/dvwa:php-8.1@sha256:1529bb327b428e804129a91f0f8bad39de0e95cf6a26d80520886559b402bb13
+#gitlab/gitlab-ce:15.10.7-ce.0
 
 #quay.io/prometheus/alertmanager:v0.24.0
 #quay.io/prometheus/blackbox-exporter:v0.21.0

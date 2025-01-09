@@ -1,3 +1,4 @@
+#debian:bookworm-backports@sha256:e2c135b5a74d812d02ef0048a75d81edacc11056ee0cb43f4db7890ec778517f
 #cytopia/dvwa:php-8.1@sha256:1529bb327b428e804129a91f0f8bad39de0e95cf6a26d80520886559b402bb13
 #gitlab/gitlab-ce:15.10.7-ce.0
 
